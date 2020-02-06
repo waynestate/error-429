@@ -71,7 +71,7 @@
             <div class="row">
                 <div id="content" class="content xlarge-offset-1 large-6 xlarge-5 columns" tabindex="-1">
                     <h1>429</h1>
-                    <h2>Oops! Looks like<br /> there have been too many requests!</h2>
+                    <h2>Oops, there have been too many requests!</h2>
                     <p>If you’re still unable to locate the page you are<br /> looking for and need additional help, please email us<br /> at <a href="mailto:web@wayne.edu">web@wayne.edu</a> and we will try to assist you.</p>
 
                     <form action="https://wayne.edu/search" method="get">
