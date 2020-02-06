@@ -1,6 +1,6 @@
 {
     "name": "waynestate/error-429",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "type": "library",
     "description": "Wayne State University Error 429 HTTP Status",
     "keywords": ["status","http","error","429"],
