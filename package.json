@@ -1,6 +1,7 @@
 {
   "name": "@waynestate/error-429",
-  "private": true,
+  "private": false,
+  "version": "1.0.6",
   "description": "",
   "main": "www.80/index.php",
   "scripts": {
